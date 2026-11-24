@@ -1,0 +1,2 @@
+condicao,split,loss,accuracy,f1_macro,balanced_accuracy,trainable_params,epochs,best_epoch,time_seconds
+Base congelada,validação,0.008306893520057201,0.9980676328502416,0.9977599794525498,0.9977064220183487,10248,9,5,1053.1013113000663

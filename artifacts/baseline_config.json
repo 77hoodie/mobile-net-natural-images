@@ -1,0 +1,44 @@
+{
+  "seed": 42,
+  "dataset_handle": "prasunroy/natural-images",
+  "dataset_dir": "C:\\Users\\cactu\\.cache\\kagglehub\\datasets\\prasunroy\\natural-images\\versions\\1\\data\\natural_images",
+  "split_sha256": "1b331f2566f8d87452e9cd8e0035b479179f10a4536b8f025f50aa4954db50fd",
+  "classes": [
+    "airplane",
+    "car",
+    "cat",
+    "dog",
+    "flower",
+    "fruit",
+    "motorbike",
+    "person"
+  ],
+  "classes_pt": [
+    "avião",
+    "carro",
+    "gato",
+    "cachorro",
+    "flor",
+    "fruta",
+    "motocicleta",
+    "pessoa"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "epochs_max": 20,
+  "epochs_run": 9,
+  "best_epoch": 5,
+  "patience": 4,
+  "selection": "val_f1_macro",
+  "training_seconds": 1053.1013113000663,
+  "base_name": "mobilenetv2_1.00_224",
+  "total": 2268232,
+  "trainable": 10248,
+  "non_trainable": 2257984,
+  "tensorflow": "2.20.0"
+}

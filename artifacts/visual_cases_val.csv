@@ -1,0 +1,13 @@
+file,class,label,pred,score,correct
+airplane/airplane_0190.jpg,airplane,0,3,0.8307661,False
+airplane/airplane_0032.jpg,airplane,0,4,0.65144444,False
+flower/flower_0587.jpg,flower,4,4,0.61535376,True
+dog/dog_0430.jpg,dog,3,3,0.6960038,True
+dog/dog_0689.jpg,dog,3,3,0.78766465,True
+dog/dog_0631.jpg,dog,3,3,0.8349671,True
+person/person_0217.jpg,person,7,7,0.8583886,True
+cat/cat_0321.jpg,cat,2,2,0.8959167,True
+car/car_0287.jpg,car,1,1,0.90858805,True
+airplane/airplane_0180.jpg,airplane,0,0,0.9544711,True
+motorbike/motorbike_0153.jpg,motorbike,6,6,0.9572114,True
+fruit/fruit_0667.jpg,fruit,5,5,0.9804073,True
